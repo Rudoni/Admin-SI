@@ -77,3 +77,5 @@ Pour les tâches planifiées, une fois par heure :
 ```
 20 * * * * /etc/scripts/bdd-backup.sh
 ```
+
+- Maquette
